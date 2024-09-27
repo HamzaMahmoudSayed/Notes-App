@@ -1,0 +1,57 @@
+{
+    "global": {
+        "title": "Notes"
+    },
+    "home": {
+        "addingTitle": "Add your Note:",
+        "inputTitlePlaceholder": "Enter The Title",
+        "inputContentPlaceholder": "Enter The Content",
+        "addingButton": "Add",
+        "notFoundNotes": "Not Found Notes",
+        "EditNote": {
+            "title": "Edit Note:",
+            "inputTitlePlaceholder": "Enter The Title",
+            "inputContentPlaceholder": "Enter The Content",
+            "EditButton": "Edit"
+        }
+    },
+    "footer": {
+        "copyRightPart1": "Copy Right 2024 © By",
+        "copyRightPart2": "All Rights Reserved",
+        "authorName": "Hamza"
+    },
+    "notFoundPage": {
+        "goToHome": "Go To Home",
+        "goToLogin": "Go To LogIn"
+    },
+    "login": {
+        "title": "Log In Now :",
+        "btnSubmit": "Login",
+        "register": "Not Registered?",
+        "createAccount": " Create Account"
+    },
+    "auth": {
+        "emailPlaceholder": "Enter The Email",
+        "passwordPlaceholder": "Enter The Password"
+    },
+    "signup": {
+        "title": "Register Now :",
+        "namePlaceholder": "Enter The Name",
+        "agePlaceholder": "Enter The Age",
+        "phonePlaceholder": "Enter The Phone",
+        "register": "Register",
+        "login": "Have Account?",
+        "loginAccount": "Log In"
+    },
+    "validationAlert": {
+        "requiredTitle": "Input title Is Required",
+        "requiredContent": "Input content Is Required",
+        "required": "Input Is Required",
+        "email": "Please enter a valid email address",
+        "password": "At least one upper case English letter,At least one lower case English letter,At least one digit,At least one special character,Minimum eight in length",
+        "minLength": "Input must be at least 2 characters long",
+        "maxLength": "Input must be not exceed 20 characters",
+        "age": "The Age Must Be Greater Than 18 Years and Must Be Less Than 60 Years",
+        "phone": "You Must Enter a Valid Phone Number"
+    }
+}

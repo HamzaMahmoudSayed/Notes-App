@@ -1,0 +1,57 @@
+{
+    "global": {
+        "title": "ملاحظات"
+    },
+    "home": {
+        "addingTitle": "أضف ملاحظتك:",
+        "inputTitlePlaceholder": "أدخل العنوان",
+        "inputContentPlaceholder": "أدخل المحتوى",
+        "addingButton": "أضف",
+        "notFoundNotes": "لا توجد ملاحظات",
+        "EditNote": {
+            "title": "تعديل الملاحظة:",
+            "inputTitlePlaceholder": "أدخل العنوان",
+            "inputContentPlaceholder": "أدخل المحتوى",
+            "EditButton": "تعديل"
+        }
+    },
+    "footer": {
+        "copyRightPart1": "حقوق الطبع والنشر 2024 © بواسطة",
+        "copyRightPart2": "جميع الحقوق محفوظة",
+        "authorName": "حمزة"
+    },
+    "notFoundPage": {
+        "goToHome": "اذهب إلى الصفحة الرئيسية",
+        "goToLogin": "اذهب إلى تسجيل الدخول"
+    },
+    "login": {
+        "title": "تسجيل الدخول الآن :",
+        "btnSubmit": "تسجيل الدخول",
+        "register": "لم تسجل بعد؟",
+        "createAccount": "إنشاء حساب"
+    },
+    "auth": {
+        "emailPlaceholder": "أدخل البريد الإلكتروني",
+        "passwordPlaceholder": "أدخل كلمة المرور"
+    },
+    "signup": {
+        "title": "سجل الآن :",
+        "namePlaceholder": "أدخل الاسم",
+        "agePlaceholder": "أدخل العمر",
+        "phonePlaceholder": "أدخل الهاتف",
+        "register": "تسجيل",
+        "login": "هل لديك حساب؟",
+        "loginAccount": "تسجيل الدخول"
+    },
+    "validationAlert": {
+        "requiredTitle": "حقل العنوان مطلوب",
+        "requiredContent": "حقل المحتوى مطلوب",
+        "required": "حقل مطلوب",
+        "email": "يرجى إدخال عنوان بريد إلكتروني صالح",
+        "password": "يجب أن تحتوي على حرف إنجليزي كبير واحد على الأقل، حرف إنجليزي صغير واحد على الأقل، رقم واحد على الأقل، رمز خاص واحد على الأقل، والطول الأدنى هو ثمانية أحرف",
+        "minLength": "يجب أن يتكون الإدخال من حرفين على الأقل",
+        "maxLength": "يجب ألا يتجاوز الإدخال 20 حرفًا",
+        "age": "يجب أن يكون العمر أكبر من 18 عامًا وأقل من 60 عامًا",
+        "phone": "يجب عليك إدخال رقم هاتف صالح"
+    }
+}
